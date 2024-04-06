@@ -47,11 +47,8 @@ The password text field should have the ability to hide the entered text. This s
 > **Note:**
 > If you haven't completed this exercise in the previous attempt, we encourage you to finish it and continue working on it to achieve a successful implementation
 
+## Fourth Challenge - Calculator 
+Develop an application that allows users to perform basic numeric operations (addition, substraction, division and multiplication) and other basic calculator functionalities.
 
-## Fourth Challenge - Time of day
-Develop an app that dynamically adapts to different times of the day. To achieve this, use a `segment controller` with three options: "Morning", "Afternoon" and "Night". Associate a background image related to each to each of these options.
-
-Key Features:
-Use a segment controller with three segments: "Morning", "Afternoon" and "Night".
-Associate a specific background image to each segment that reflects the atmosphere and light corresponding to that time of day.
-When the user selects an option in the segment controller, the application should update the wallpaper according to the choice made.
+## Extra challenge
+Using everything we’ve seen so far about constraints, try to visually enhance the music band, calculator and login apps.
